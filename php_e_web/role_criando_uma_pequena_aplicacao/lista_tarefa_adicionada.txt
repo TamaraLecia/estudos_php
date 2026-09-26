@@ -1,0 +1,3 @@
+<b>Limpar casa2</b>
+<b>Lavar vasilh</b>
+<b>Estudar PHP6</b>
