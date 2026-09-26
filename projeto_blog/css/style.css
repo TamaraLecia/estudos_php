@@ -1,0 +1,8 @@
+/* Todos os elementos vão ter está fonte */
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+body {
+    background-color: #ccc;
+}
