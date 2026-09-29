@@ -20,7 +20,7 @@
       'title' => 'A importância da lógica de programação',
       'description' => 'A lógica de programação é o ponto inicial de muitos estudantes de programação, será que é importante?',
       'tags' => ['lógica', 'programação', 'algoritmos'],
-      'img' => 'prog-3.jpg',
+      'img' => 'prog-3.jpg'
     ],
     [
       'id' => 4,
